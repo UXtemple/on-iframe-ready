@@ -1,0 +1,19 @@
+{
+  "name": "on-iframe-ready",
+  "version": "1.0.0",
+  "description": "Run a callback when the iframe is ready",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UXtemple/on-iframe-ready.git"
+  },
+  "author": "Darío Javier Cravero <dario@uxtemple.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UXtemple/on-iframe-ready/issues"
+  },
+  "homepage": "https://github.com/UXtemple/on-iframe-ready#readme"
+}
